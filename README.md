@@ -8,6 +8,8 @@ Subject: Computational engineering(Late)
 
 Lut University
 
+Video Demo: https://youtu.be/Efm53fkpGtc
+
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application for creating and managing notes.
 
 🔧 How to Run the Project
@@ -69,8 +71,6 @@ Check Backend:
 backend/    → Express + MongoDB API
 
 frontend/   → React (Vite) UI
-
-Video Demo: https://youtu.be/Efm53fkpGtc
 
 📘 Notes
 
