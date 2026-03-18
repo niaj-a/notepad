@@ -72,8 +72,6 @@ frontend/   → React (Vite) UI
 
 Video Demo: https://youtu.be/Efm53fkpGtc
 
-Thanks!
-
 📘 Notes
 
 MongoDB Atlas is used as the database
